@@ -21,8 +21,16 @@ Certifications:
 * Udemy AI Engineer
 
 ## Projects
+### SQL and 
 ### Regression
+* [Bitcoin Prediction](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/Predicting%20Bitcoin%20Price%20trends)
+
+
 ### Classification
+
 ### Clasterization
+
 ### NLP
+
 ### Computer Vision
+* [Deep Dream Avocado](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/DeepDreamAvocado)
