@@ -3,13 +3,12 @@
 ## Information
 <img src="https://github.com/anton96vice/Portfolio/blob/main/imgs/118939180_144641860659174_2891684691636715468_o.jpg" width="300" height="400" /> 
 
-## Resume
+### Resume
 * [My working Resume](https://github.com/anton96vice/Portfolio/blob/main/AntonViceResume.pdf)
 
 
 ### BIO
 My name is Anton and I am 24 years old.
-
 * Certified and practising Machine Learning Engineer 
 * Kaggle and Hackathons' participator
 * 5 Years programming on Python and 2 Years experience in Data Analysis and Machine Learning
@@ -22,9 +21,7 @@ My name is Anton and I am 24 years old.
 * SkillFactory [2020-Present]
 - Data Science Major
 
-
-
-Certifications:
+### Certifications:
 * Kaggle Learning
 * Udemy AI Engineer
 
