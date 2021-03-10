@@ -15,7 +15,7 @@ The idea is to split the dataset into periods of 3 weeks, take two first weeks a
 The test set is then compared with the prediction to demonstrate the Mean Absolute Error of the models' predictions
 
 ## The Code
-
+ ```python
     import numpy as np
     import matplotlib.pyplot as plt
     import pandas as pd
