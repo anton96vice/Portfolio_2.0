@@ -1,6 +1,6 @@
 # Cluster Students by their Social Network Tags
 ```py
-  import pandas as pd
+import pandas as pd
 import matplotlib.pyplot as plt
 
 #Data Load
