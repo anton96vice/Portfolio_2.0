@@ -1,7 +1,7 @@
 # How I made a computer daydream an avocado
 ## The Code
 ```py
-  import numpy as np
+import numpy as np
 from functools import partial
 import PIL.Image
 import tensorflow as tf
