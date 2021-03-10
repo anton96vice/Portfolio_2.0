@@ -1,7 +1,7 @@
 # Anton Vice's Resume
 
 ## Information
-
+<img src="https://github.com/anton96vice/Portfolio/blob/main/imgs/118939180_144641860659174_2891684691636715468_o.jpg" width="300" height="400" /> 
 ## Resume
 * [My working Resume](https://github.com/anton96vice/Portfolio/blob/main/AntonViceResume.pdf)
 
@@ -119,14 +119,21 @@ Petco - Sarasota, FL January 2013 to August 2014.
 * [Russian OIL Hackathon](https://vk.com/onlinehackathon) Top 10 with the team "SOILyanka"
 
 ## Projects
-### SQL and 
+### SQL, Analysis, and Presentation
+* [SQL](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/SQL_Project)
+
+
 ### Regression
 * [Bitcoin Prediction](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/Predicting%20Bitcoin%20Price%20trends)
 
 
 ### Classification
+* [Classic](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/Classification)
+* [Computer Says "NO"](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/Comp_NO)
 
 ### Clasterization
+* [Cluster](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/Cluster_Students)
+
 
 ### NLP
 
@@ -136,3 +143,6 @@ Petco - Sarasota, FL January 2013 to August 2014.
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/anton-vice-89563a180/)
 - [My Academic Writings](https://www.linkedin.com/in/anton96vice/detail/recent-activity/posts/)
+
+## Extra
+I am also a deepdreamer. Here is my [Art](https://github.com/anton96vice/Portfolio_2.0/tree/master/deepdreamart)
