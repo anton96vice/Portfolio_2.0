@@ -2,6 +2,7 @@
 
 ## Information
 <img src="https://github.com/anton96vice/Portfolio/blob/main/imgs/118939180_144641860659174_2891684691636715468_o.jpg" width="300" height="400" /> 
+
 ## Resume
 * [My working Resume](https://github.com/anton96vice/Portfolio/blob/main/AntonViceResume.pdf)
 
