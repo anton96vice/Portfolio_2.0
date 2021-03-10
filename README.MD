@@ -134,8 +134,8 @@ Petco - Sarasota, FL January 2013 to August 2014.
 ### Clasterization
 * [Cluster](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/Cluster_Students)
 
-
 ### NLP
+* [NLP](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/NLP)
 
 ### Computer Vision
 * [Deep Dream Avocado](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/DeepDreamAvocado)
