@@ -19,7 +19,7 @@ My name is Anton and I am 24 years old.
 -Philosophy Major
 
 * SkillFactory [2020-Present]
-- Data Science Major
+-Data Science Major
 
 ### Certifications:
 * Kaggle Learning
