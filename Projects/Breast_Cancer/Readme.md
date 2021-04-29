@@ -14,3 +14,6 @@
 
 Number of Samples: 569; 212 of which are Malignant and 357 Benign
 
+![img122](https://github.com/anton96vice/Portfolio_2.0/blob/master/Projects/Breast_Cancer/download%20(2).png)
+![img21](https://github.com/anton96vice/Portfolio_2.0/blob/master/Projects/Breast_Cancer/download%20(1).png)
+![img1222](https://github.com/anton96vice/Portfolio_2.0/blob/master/Projects/Breast_Cancer/download%20(3).png)
