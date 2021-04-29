@@ -135,8 +135,9 @@ Petco - Sarasota, FL January 2013 to August 2014.
 ### Classification
 * [Classic](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/Classification)
 * [Computer Says "NO"](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/Comp_NO)
+* [Breast Cancer Classification](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/Breast_Cancer)
 
-### Clasterization
+### Clusterization
 * [Cluster](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/Cluster_Students)
 
 ### NLP
@@ -144,6 +145,7 @@ Petco - Sarasota, FL January 2013 to August 2014.
 
 ### Computer Vision
 * [Deep Dream Avocado](https://github.com/anton96vice/Portfolio_2.0/tree/master/Projects/DeepDreamAvocado)
+
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/anton-vice-89563a180/)
