@@ -36,6 +36,13 @@ Now the most important for you to know about me - my skillset. This list is cons
 | SQL   | Database creation and Queries | PostgreSQL|
 | Entrepreneurship  | bookkeeping, communication, management | Excel, QuickBooks|
 
+## Deep Learning Skill Stack
+Now the most important for you to know about me - my skillset. This list is constantly updating as I invest my money and time in this the most
+| SkillSet      | Skills | Apps    |
+| :------------- | :----------: | -----------: |
+|  NLP | Scrape, analyze, visualize, preprocess, cleanup, Stemm, Lemmatize texts; engineer features and draw insights, Categorize, clusterize, and generate text   | Spacy, NLTK, TextBlob, WordCloud, Word2Vec|
+|  Computer Vision | Collect, Augment, preprocess images. Build Models, use transformers, visualize the results. Object detection, Segmentation  | Keras, TensorFlow, OpenCV, PyTorch|
+
 ## Work Experience
 The Following is the full list of my work Experience, the skills I have acquired there, and the jobs I have performed.
 ### Freelance ML Engineer
