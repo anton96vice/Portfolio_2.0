@@ -1,4 +1,6 @@
 # Scraping and analyzing Elon Musk's tweets
+![img](https://github.com/anton96vice/Portfolio_2.0/blob/master/Projects/NLP/Tweeter_Analysis/Screen%20Shot%202021-04-29%20at%206.22.15%20PM.png)
+
 ```py
 import nltk
 nltk.download('punkt')
