@@ -40,7 +40,7 @@ Now the most important for you to know about me - my skillset. This list is cons
 Now the most important for you to know about me - my skillset. This list is constantly updating as I invest my money and time in this the most
 | SkillSet      | Skills | Apps    |
 | :------------- | :----------: | -----------: |
-|  NLP | Scrape, analyze, visualize, preprocess, cleanup, Stemm, Lemmatize texts; engineer features and draw insights, Categorize, clusterize, and generate text   | Spacy, NLTK, TextBlob, WordCloud, Word2Vec|
+|  NLP | Scrape, analyze, visualize, preprocess, cleanup, Stemm, Lemmatize texts; engineer features and draw insights, Categorize, clusterize, and generate text   | Spacy, NLTK, TextBlob, WordCloud, Word2Vec, ktrain, tqdm, snscrape|
 |  Computer Vision | Collect, Augment, preprocess images. Build Models, use transformers, visualize the results. Object detection, Segmentation  | Keras, TensorFlow, OpenCV, PyTorch|
 
 ## Work Experience
