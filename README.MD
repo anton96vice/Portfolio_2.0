@@ -34,6 +34,7 @@ Now the most important for you to know about me - my skillset. This list is cons
 | ML Engineering   | Regression, Classification, Clasterization, Cross-Evaluation, Parameter Tuning, Neural Networks, PCA, Dimensionality Reduction| ScikitLearn |
 | SQA   | bug recreation and documentation | Selenium|
 | SQL   | Database creation and Queries | PostgreSQL|
+|  Deployement  | App Deployement and server launch | Heroku, Streamlit, [Flask](https://drive.google.com/file/d/16A5TUZ)|
 | Entrepreneurship  | bookkeeping, communication, management | Excel, QuickBooks|
 
 ## Deep Learning Skill Stack
